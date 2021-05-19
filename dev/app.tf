@@ -1,4 +1,4 @@
-# App specific code
+# App specific code 01
 resource "azurerm_virtual_network" "vnet" {
   name                = "app-vnet"
   location            = azurerm_resource_group.rg.location
