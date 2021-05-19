@@ -1,0 +1,1 @@
+# Example to show Git subsdiretcory isolation for trigger TFC run
